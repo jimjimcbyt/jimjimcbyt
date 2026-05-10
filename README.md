@@ -1,5 +1,28 @@
-## 嗨 我是Jim
-[![Discord Presence](https://lanyard.cnrad.dev/api/1205472385663242241)](https://discord.com/users/1205472385663242241)
+# 嗨 我是Jim
+一個專注於Web2.0和Web3.0的業餘電腦工程師
+## 已完成的專案
+<small>~~太累了 但如果你想和我一起開發你可以用Discord私訊我~~</small>
 
+## 正在開發的專案 `(皆按照開發順序排序 由早到晚)`
+#### JCC 人人都用的起的電競雲電腦
+`透過網頁串流技術將雲電腦的畫面傳給使用者 實現在網頁玩電腦遊戲的目標`
+#### EarnAll
+`將使用者透過問卷及遊戲所獲得的收益 無抽成的返現給使用者`
+#### arcade
+`在網頁上實現虛擬多人遊戲廳 具有各類卡牌遊戲及桌遊`
+#### Smart ZhuYin
+`透過神經網路改善新注音錯誤問題`
+#### Lazy ZhuYin
+`一款可僅輸入注音開頭即可打字的軟體`
+#### EpicDB
+`類似於SteamDB的Epic Games網頁資料庫`
+#### BetterGit
+`經過優化的Git版本控制軟體`
+
+## 連結與卡片
 [我的個人網站](https://1010819.xyz)
+
+[![我的Discord](https://lanyard.cnrad.dev/api/1205472385663242241)](https://discord.com/users/1205472385663242241)
+
+
 
